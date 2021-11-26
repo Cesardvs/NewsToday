@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background: #ff0000c2!important;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+#navbarSoporte{
+    padding: 20px;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;;
+}
+  
+  
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.d-block{
+            width: 2000px; height: 400px;
+      }
+.jumbotron {
+    background-color:  #ffffff;
+}
+.display-2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+.display-4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: black;
+}
+p{    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+
+@media (min-width: 400px) {
+    .jumbotron {
+        padding: 2rem 2rem;
+    }
+}
+.row{
+    border-collapse: collapse;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #ffffff;
+    background-clip: border-box;
+    border: 1px solid  #ff0000c2!important;
+    border-radius: 0.25rem;
+}
+.card-img-top{
+    width: 500px; height: 300px;
+}
+
+#footer{
+    background:#ffffff;
+}
+
+.links{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
